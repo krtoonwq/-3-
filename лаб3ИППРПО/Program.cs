@@ -1,6 +1,6 @@
 ﻿namespace лаб3ИППРПО
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
